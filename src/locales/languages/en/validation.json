@@ -1,0 +1,10 @@
+{
+  "validation": {
+    "required": "Required",
+    "email": "Email address is not valid",
+    "phone": "Invalid phone number",
+    "username": "Invalid username",
+    "password": "Invalid password",
+    "passwordLength": "The maximum password length is 15 characters"
+  }
+}

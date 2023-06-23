@@ -1,0 +1,16 @@
+{
+  "validation": {
+    "required": "Bắt buộc",
+    "email": "Địa chỉ email không hợp lệ",
+    "phone": "Số điện thoại không hợp lệ",
+    "username": "Tên đăng nhập không hợp lệ",
+    "password": "Mật khẩu không hợp lệ",
+    "passwordLength": "Độ dài mật khẩu tối đa là 15 ký tự",
+    "invalidNumber": "Số không hợp lệ"
+  },
+  "messages": {
+    "common": "Đã xảy ra lỗi, vui lòng thử lại sau",
+    "forbidden": "Không có quyền truy cập",
+    "err_network": "Không thể kết nối đến máy chủ, vui lòng thử lại sau"
+  }
+}
